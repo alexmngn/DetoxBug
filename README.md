@@ -1,0 +1,4 @@
+- Clone the repo
+- Install the dependencies: `yarn`
+- Build with detox: `yarn detox:build`
+- Run with detox: `yarn detox:test`
